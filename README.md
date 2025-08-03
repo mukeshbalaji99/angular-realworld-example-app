@@ -40,7 +40,7 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
 - Follow other users
 
 **The general page breakdown looks like this:**
-- mukesh
+- mukesh balaji
 - Home page (URL: /#/ )
   - List of tags
   - List of articles pulled from either Feed, Global, or by Tag
